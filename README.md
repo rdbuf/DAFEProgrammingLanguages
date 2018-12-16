@@ -1,6 +1,6 @@
 # Языки и методы программирования
 
-Задачи к зачёту
+Задачи к зачёту, 1 семестр
 
 ## Forth
 
@@ -10,7 +10,7 @@
 - https://www.complang.tuwien.ac.at/forth/gforth/Docs-html/Conditional-execution-Tutorial.html
 - https://www.complang.tuwien.ac.at/forth/gforth/Docs-html/Counted-Loops.html
 
-### Interpreter
+### Interpreter:
 `gforth`
 
 ### Problemset:
