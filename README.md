@@ -14,10 +14,6 @@
 `gforth`
 
 ### Problemset:
-![forth-1.jpg][forth-1]
-![forth-2.jpg][forth-2]
-![forth-3.jpg][forth-3]
-
-[forth-1]: ./problemset/FORTH-1.jpg
-[forth-2]: ./problemset/FORTH-2.jpg
-[forth-3]: ./problemset/FORTH-3.jpg
+<img src="./problemset/FORTH-1.jpg" height=354px style="transform: rotate(270deg)"> </img>
+<img src="./problemset/FORTH-2.jpg" height=354px style="transform: rotate(270deg)"> </img>
+<img src="./problemset/FORTH-3.jpg" height=354px> </img>
