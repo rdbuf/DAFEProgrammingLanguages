@@ -4,6 +4,8 @@
 
 ## Forth
 
+Все решения есть.
+
 ### Sources:
 - http://wiki.laptop.org/go/Forth_stack_operators
 - https://webcache.googleusercontent.com/search?q=cache:ildYPxRlI0oJ:https://learnxinyminutes.com/docs/forth
@@ -16,6 +18,15 @@
 `gforth`
 
 ### Problemset:
-<img src="./problemset/FORTH-1.jpg" height=354px style="transform: rotate(270deg)"> </img>
-<img src="./problemset/FORTH-2.jpg" height=354px style="transform: rotate(270deg)"> </img>
+<img src="./problemset/FORTH-1.jpg" height=354px> </img>
+<img src="./problemset/FORTH-2.jpg" height=354px> </img>
 <img src="./problemset/FORTH-3.jpg" height=354px> </img>
+
+## Lisp
+
+### Interpreter:
+`sbcl`
+
+### Problemset:
+<img src="./problemset/LISP-1.jpg" height=354px> </img>
+<img src="./problemset/LISP-2.jpg" height=354px> </img>
