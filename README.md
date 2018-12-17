@@ -24,6 +24,17 @@
 
 ## Lisp
 
+Все решения есть.
+
+### Sources:
+- https://stackoverflow.com/questions/10771107/lisp-list-vs-s-expression
+- https://stackoverflow.com/questions/134887/when-to-use-or-quote-in-lisp
+
+### Key constructs:
+- `car`/`cdr`
+- `defun`/`let`/`labels`
+- `if`/`cond`/`loop for`
+
 ### Interpreter:
 `sbcl`
 
