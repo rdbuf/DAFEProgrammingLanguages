@@ -5,5 +5,5 @@
 			(car list)
 			(prelast (cdr list)))))
 
-(assert (eq (prelast (cons 1 ())) nil))
-(assert (eq (prelast (cons 1 (cons 2 ()))) 1))
+(assert (eq (prelast '(1)) nil))
+(assert (eq (prelast '(1 2)) 1))
