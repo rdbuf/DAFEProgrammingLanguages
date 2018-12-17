@@ -4,7 +4,7 @@
 
 ## Forth
 
-Все решения есть.
+Все решения <a href="./forth-solutions">есть</a>.
 
 ### Sources:
 - http://wiki.laptop.org/go/Forth_stack_operators
@@ -24,7 +24,7 @@
 
 ## Lisp
 
-Все решения есть.
+Все решения <a href="./lisp-solutions">есть</a>.
 
 ### Sources:
 - https://stackoverflow.com/questions/10771107/lisp-list-vs-s-expression
