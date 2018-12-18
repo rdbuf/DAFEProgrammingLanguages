@@ -1,6 +1,6 @@
-(defun even-positions (lst)
+(defun odd-positions (lst)
 	(if (>= 1 (length lst))
 		lst
-		(cons (car lst) (even-positions (cdr (cdr lst))))))
+		(cons (car lst) (odd-positions (cdr (cdr lst))))))
 
-(assert (equal (even-positions '(1 2 3 4 5)) '(1 3 5)))
+(assert (equal (odd-positions '(1 2 3 4 5)) '(1 3 5)))
