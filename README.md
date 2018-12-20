@@ -18,9 +18,9 @@
 `gforth`
 
 ### Problemset:
-<img src="./problemset/FORTH-1.jpg" height=354px> </img>
-<img src="./problemset/FORTH-2.jpg" height=354px> </img>
-<img src="./problemset/FORTH-3.jpg" height=354px> </img>
+<img src="./problemset/FORTH-1.jpg" title="Задачи 1-14" height=354px> </img>
+<img src="./problemset/FORTH-2.jpg" title="Задачи 15-31" height=354px> </img>
+<img src="./problemset/FORTH-3.jpg" title="Задачи 32-36" height=354px> </img>
 
 ## Lisp
 
@@ -39,5 +39,5 @@
 `sbcl`
 
 ### Problemset:
-<img src="./problemset/LISP-1.jpg" height=354px> </img>
-<img src="./problemset/LISP-2.jpg" height=354px> </img>
+<img src="./problemset/LISP-1.jpg" title="Задачи 1-20" height=354px> </img>
+<img src="./problemset/LISP-2.jpg" title="Задачи 21-36" height=354px> </img>
