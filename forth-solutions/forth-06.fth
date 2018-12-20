@@ -1,6 +1,6 @@
 : count ( addr len val ) 0 swap 2swap 0 do dup i cells + @ ( cnt val addr val2 ) rot swap over = if ( cnt addr val ) rot 1 + -rot then swap loop 2drop ;
 
-: has_triplicates ( addr len ) dup 0 do 2dup over i cells + @ count 3 >= if 2drop 1 unloop exit then loop 2drop 0 ;
+: has_triplicates ( addr len ) dup 0 do 2dup over i cells + @ count 3 >= if 2drop -1 unloop exit then loop 2drop 0 ;
 
 create arr1 943 , 43 , 7 , 954 ,
 create arr2 43 , 43 , 7 , 954 ,
